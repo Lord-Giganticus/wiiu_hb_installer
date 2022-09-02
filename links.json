@@ -1,0 +1,12 @@
+{
+    "options": {
+        "indexiine": "https://github.com/GaryOderNichts/indexiine-installer/releases/download/v2/indexiine-installer.zip",
+        "tiramisu": "https://tiramisu.foryour.cafe/api/download?packages=environmentloader,wiiu-nanddumper-payload,payloadloaderinstaller,tiramisu",
+        "haxchi": "https://wiiubru.com/appstore/zips/haxchi.zip",
+        "cbhc": "https://wiiubru.com/appstore/zips/cbhc.zip"
+    },
+    "programs": [
+        "https://wiiubru.com/appstore/zips/homebrew_launcher.zip",
+        "https://wiiubru.com/appstore/zips/appstore.zip"
+    ]
+}
